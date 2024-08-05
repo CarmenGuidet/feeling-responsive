@@ -1,0 +1,43 @@
+- title: Inicio
+  url: "/"
+  side: right
+
+- title: ¿Qué es teleco?
+  url: "/que-es-teleco/"
+  side: right
+
+- title: "Conoce"
+  url: "/conoce/"
+  side: right
+  dropdown:
+  - title: "Comunicaciones"
+    url: "/conoce/comunicaciones/"
+  - title: "Electronica"
+    url: "/conoce/electronica/"
+  - title: "Redes"
+    url: "/conoce/redes/"
+
+
+
+- title: "Experimenta"
+  url: "/experimenta/"
+  side: right
+  dropdown:
+  - title: "Experimenta desde casa"
+    url: "/experimenta/casa/"
+  - title: "Experimenta con un ordenador"
+    url: "/experimenta/ordenador/"
+  - title: "Microbit"
+    url: "/experimenta/microbit/"
+  - title: "ESP32"
+    url: "/experimenta/esp32/"
+  - title: "Profesorado"
+    url: "/experimenta/profesorado/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

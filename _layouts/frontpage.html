@@ -1,0 +1,103 @@
+---
+layout: default
+format: frontpage
+---
+<style>
+    .intro-section {
+        text-align: center;
+        padding: 50px 0;
+    }
+
+    .intro-section .button {
+        display: inline-block;
+        margin: 20px auto;
+        padding: 10px 20px;
+        background-color: #FF6600;
+        /* Naranja */
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+    .intro-section .button:hover {
+        background-color: #E65C00;
+        /* Un poco más oscuro al hacer hover */
+    }
+</style>
+
+
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+<section id="intro" class="intro-section" class="row t30">
+    <h1>¿Qué es TELECO?</h1>
+    <a class="button" href="/feeling-responsive/que-es-teleco/">Quiero saber más</a>
+</section>
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+
+<section id="conociendo" class="intro-section">
+    <h2>Conociendo las teleco</h2>
+    <div class="row t30">
+        {% if page.widget1.image or page.widget1.video or page.widget1.title %}
+        {% include _frontpage-widget.html widget=page.widget1 %}
+        {% endif %}
+
+        {% if page.widget2.image or page.widget2.video or page.widget2.title %}
+        {% include _frontpage-widget.html widget=page.widget2 %}
+        {% endif %}
+
+        {% if page.widget3.image or page.widget3.video or page.widget3.title %}
+        {% include _frontpage-widget.html widget=page.widget3 %}
+        {% endif %}
+    </div><!-- /.row -->
+</section>
+
+
+
+{% comment %}
+*
+* First check, if there is a call for action-button
+*
+{% endcomment %}
+{% if page.callforaction.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+{% if page.callforaction %}
+<section id="experimenta" class="intro-section">
+    <h2>Experimenta y crea</h2>
+    <div class="row t0 b30">
+        <div class="small-24 text columns 2">
+            <a class="button large radius {{ page.callforaction.style1 }}" href="{{ url }}{{ page.callforaction.url1 }}"
+                {% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text1
+                }}</a>
+
+            <a class="button large radius {{ page.callforaction.style2 }}" href="{{ url }}{{ page.callforaction.url2 }}"
+                {% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text2
+                }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+</section>
+{% endif %}
+
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
