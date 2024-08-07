@@ -6,6 +6,6 @@ categories:
   - electronica
 tag: 
   - electronica
-permalink: "conoce/electronica/"
+permalink: "/conoce/electronica/"
 ---
 {% include list-posts tag='electronica' %}

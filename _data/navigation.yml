@@ -20,24 +20,24 @@
 
 
 - title: "Experimenta"
-  url: "https://carmenguidet.github.io/experimenta/"
+  url: "/experimenta/"
   side: right
   dropdown:
   - title: "Experimenta desde casa"
-    url: "https://carmenguidet.github.io/experimenta/casa/"
+    url: "/experimenta/casa/"
   - title: "Experimenta con un ordenador"
-    url: "https://carmenguidet.github.io/experimenta/ordenador/"
+    url: "/experimenta/ordenador/"
   - title: "Microbit"
-    url: "https://carmenguidet.github.io/experimenta/microbit/"
+    url: "/experimenta/microbit/"
   - title: "ESP32"
-    url: "https://carmenguidet.github.io/experimenta/esp32/"
+    url: "/experimenta/esp32/"
   - title: "Profesorado"
-    url: "https://carmenguidet.github.io/experimenta/profesorado/"
+    url: "/experimenta/profesorado/"
 
 - title: "Search"
-  url: "https://carmenguidet.github.io/search/"
+  url: "/search/"
   side: right
 
 - title: "Contact"
-  url: "https://carmenguidet.github.io/contact/"
+  url: "/contact/"
   side: right
