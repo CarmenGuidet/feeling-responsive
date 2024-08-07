@@ -5,6 +5,6 @@ categories:
     - comunicaciones
 tags:
     - comunicaciones
-permalink: "/conoce/comunicaciones/"
+permalink: "conoce/comunicaciones/"
 ---
 {% include list-posts tag='comunicaciones' %}
