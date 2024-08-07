@@ -5,7 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-
+title: "Home"
+description: "Welcome to my site"
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -47,9 +48,11 @@ callforaction:
   text2: Para profesorado
   style2: alert
 permalink: /index.html
+
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
 homepage: true
+
 --- 
