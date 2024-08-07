@@ -5,6 +5,6 @@ categories:
     - comunicaciones
 tags:
     - comunicaciones
-permalink: /conoce/comunicaciones/
+permalink: https://carmenguidet.github.io/conoce/comunicaciones/
 ---
 {% include list-posts tag='comunicaciones' %}

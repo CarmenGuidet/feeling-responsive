@@ -6,6 +6,6 @@ categories:
   - electronica
 tag: 
   - electronica
-permalink: /conoce/electronica/
+permalink: https://carmenguidet.github.io/conoce/electronica/
 ---
 {% include list-posts tag='electronica' %}

@@ -3,41 +3,41 @@
   side: right
 
 - title: ¿Qué es teleco?
-  url: "/que-es-teleco/"
+  url: https://carmenguidet.github.io/que-es-teleco/"
   side: right
 
 - title: "Conoce"
-  url: "/conoce/"
+  url: "https://carmenguidet.github.io/conoce/"
   side: right
   dropdown:
   - title: "Comunicaciones"
-    url: "/conoce/comunicaciones/"
+    url: "https://carmenguidet.github.io/conoce/comunicaciones/"
   - title: "Electronica"
-    url: "/conoce/electronica/"
+    url: "https://carmenguidet.github.io/conoce/electronica/"
   - title: "Redes"
-    url: "/conoce/redes/"
+    url: "https://carmenguidet.github.io/conoce/redes/"
 
 
 
 - title: "Experimenta"
-  url: "/experimenta/"
+  url: "https://carmenguidet.github.io/experimenta/"
   side: right
   dropdown:
   - title: "Experimenta desde casa"
-    url: "/experimenta/casa/"
+    url: "https://carmenguidet.github.io/experimenta/casa/"
   - title: "Experimenta con un ordenador"
-    url: "/experimenta/ordenador/"
+    url: "https://carmenguidet.github.io/experimenta/ordenador/"
   - title: "Microbit"
-    url: "/experimenta/microbit/"
+    url: "https://carmenguidet.github.io/experimenta/microbit/"
   - title: "ESP32"
-    url: "/experimenta/esp32/"
+    url: "https://carmenguidet.github.io/experimenta/esp32/"
   - title: "Profesorado"
-    url: "/experimenta/profesorado/"
+    url: "https://carmenguidet.github.io/experimenta/profesorado/"
 
 - title: "Search"
-  url: "/search/"
+  url: "https://carmenguidet.github.io/search/"
   side: right
 
 - title: "Contact"
-  url: "/contact/"
+  url: "https://carmenguidet.github.io/contact/"
   side: right

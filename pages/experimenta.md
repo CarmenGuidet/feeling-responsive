@@ -3,5 +3,5 @@ layout: page
 subheadline: "Experimenta"
 title: "Experimenta y crea teleco"
 teaser: ""
-permalink: "/experimenta/"
+permalink: "https://carmenguidet.github.io/experimenta/"
 ---

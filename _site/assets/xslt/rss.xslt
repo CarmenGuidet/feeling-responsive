@@ -185,7 +185,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/feeling-responsive/que-es-teleco/">¿Qué es teleco?</a></li>
+              <li><a  href="https://carmenguidet.github.io/que-es-teleco/"" target="_blank">¿Qué es teleco?</a></li>
 
             
             
@@ -203,24 +203,24 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/feeling-responsive/conoce/">Conoce</a>
+                <a  href="https://carmenguidet.github.io/conoce/" target="_blank">Conoce</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/conoce/comunicaciones/">Comunicaciones</a></li>
+                      <li><a  href="https://carmenguidet.github.io/conoce/comunicaciones/" target="_blank">Comunicaciones</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/conoce/electronica/">Electronica</a></li>
+                      <li><a  href="https://carmenguidet.github.io/conoce/electronica/" target="_blank">Electronica</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/conoce/redes/">Redes</a></li>
+                      <li><a  href="https://carmenguidet.github.io/conoce/redes/" target="_blank">Redes</a></li>
                     
                   </ul>
 
@@ -240,34 +240,34 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/feeling-responsive/experimenta/">Experimenta</a>
+                <a  href="https://carmenguidet.github.io/experimenta/" target="_blank">Experimenta</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/experimenta/casa/">Experimenta desde casa</a></li>
+                      <li><a  href="https://carmenguidet.github.io/experimenta/casa/" target="_blank">Experimenta desde casa</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/experimenta/ordenador/">Experimenta con un ordenador</a></li>
+                      <li><a  href="https://carmenguidet.github.io/experimenta/ordenador/" target="_blank">Experimenta con un ordenador</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/experimenta/microbit/">Microbit</a></li>
+                      <li><a  href="https://carmenguidet.github.io/experimenta/microbit/" target="_blank">Microbit</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/experimenta/esp32/">ESP32</a></li>
+                      <li><a  href="https://carmenguidet.github.io/experimenta/esp32/" target="_blank">ESP32</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/experimenta/profesorado/">Profesorado</a></li>
+                      <li><a  href="https://carmenguidet.github.io/experimenta/profesorado/" target="_blank">Profesorado</a></li>
                     
                   </ul>
 
@@ -285,7 +285,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/feeling-responsive/search/">Search</a></li>
+              <li><a  href="https://carmenguidet.github.io/search/" target="_blank">Search</a></li>
 
             
             
@@ -301,7 +301,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/feeling-responsive/contact/">Contact</a></li>
+              <li><a  href="https://carmenguidet.github.io/contact/" target="_blank">Contact</a></li>
 
             
             

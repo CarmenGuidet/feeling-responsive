@@ -8,6 +8,6 @@ categories:
 tags:
     - redes
 
-permalink: /conoce/redes/
+permalink: https://carmenguidet.github.io/conoce/redes/
 ---
 {% include list-posts tag='redes' %}

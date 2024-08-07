@@ -7,6 +7,6 @@ categories:
 tags:
     - ordenador
     - casa
-permalink: /experimenta/ordenador/
+permalink: https://carmenguidet.github.io/experimenta/ordenador/
 ---
 {% include list-posts tag='ordenador' %}

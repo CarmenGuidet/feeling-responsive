@@ -6,6 +6,6 @@ categories:
     - experimenta
 tags:
     - casa
-permalink: /experimenta/casa/
+permalink: https://carmenguidet.github.io/experimenta/casa/
 ---
 {% include list-posts tag='casa' %}
