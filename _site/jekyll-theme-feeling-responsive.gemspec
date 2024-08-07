@@ -18,3 +18,4 @@ EOD
   s.homepage = 'http://phlow.github.io/feeling-responsive/'
   s.license = 'MIT'
 end
+cache-version: 1
