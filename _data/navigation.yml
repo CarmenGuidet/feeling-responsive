@@ -1,21 +1,21 @@
 - title: Inicio
-  url: "https://carmenguidet.github.io/"
+  url: "/"
   side: right
 
 - title: ¿Qué es teleco?
-  url: https://carmenguidet.github.io/que-es-teleco/"
+  url: "/que-es-teleco/"
   side: right
 
 - title: "Conoce"
-  url: "https://carmenguidet.github.io/conoce/"
+  url: "/conoce/"
   side: right
   dropdown:
   - title: "Comunicaciones"
-    url: "https://carmenguidet.github.io/conoce/comunicaciones/"
+    url: "/conoce/comunicaciones/"
   - title: "Electronica"
-    url: "https://carmenguidet.github.io/conoce/electronica/"
+    url: "/conoce/electronica/"
   - title: "Redes"
-    url: "https://carmenguidet.github.io/conoce/redes/"
+    url: "/conoce/redes/"
 
 
 
